@@ -21,4 +21,4 @@
                          ╘≈    . ░.      ..░      "`
                            ".≈≈"""""""""""""""≈≈≈"
 ---
-made with ❤ by canopy
+made with ❤ by @canopy-host
