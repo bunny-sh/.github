@@ -21,4 +21,6 @@
      ╘≈    . ░.      ..░      "`
        ".≈≈"""""""""""""""≈≈≈"
 ---
-made with ❤ by [canopy.host](https://github.com/canopy-host)
+made with ❤ by [giovankes](https://github.com/giovankes)
+
+see more [here](https://bunny.giotje.dev)
